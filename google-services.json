@@ -1,27 +1,27 @@
 {
   "project_info": {
-    "project_number": "415244791351",
-    "firebase_url": "https://my-app-449e8.firebaseio.com",
-    "project_id": "my-app-449e8",
-    "storage_bucket": "my-app-449e8.appspot.com"
+    "project_number": "843148011566",
+    "firebase_url": "https://cs-pushnotification.firebaseio.com",
+    "project_id": "cs-pushnotification",
+    "storage_bucket": "cs-pushnotification.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:415244791351:android:436f630ceb5db503",
+        "mobilesdk_app_id": "1:843148011566:android:3e4e6b6b48132dfa",
         "android_client_info": {
-          "package_name": "com.dw.cstestpushnotification"
+          "package_name": "com.edentify.cafestudy"
         }
       },
       "oauth_client": [
         {
-          "client_id": "415244791351-8agtfbrqungd3qshim6g76k6mk19s913.apps.googleusercontent.com",
+          "client_id": "843148011566-mmnncfb8apujqje44e4v06lbibmrtmb8.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyBIZFnT3kDntBGWhOmJT9OY-h-diJ_ZB2M"
+          "current_key": "AIzaSyBg55LtP3GJJmeOhHvBkMLj_zzysvfUUaM"
         }
       ],
       "services": {
